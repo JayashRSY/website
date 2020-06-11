@@ -1,8 +1,8 @@
 /*
- * Responsee JS - v5 - 2018-03-23
- * https://www.myresponsee.com
- * Copyright 2018, Vision Design - graphic zoo
- * Free to use under the MIT license.
+
+JAYASH RSY
+
+
 */
 jQuery(document).ready(function($) {
   //Responsee tabs
